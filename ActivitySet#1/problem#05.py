@@ -4,7 +4,7 @@ def computepay(hrs, r):
    if hrs<40:
     print("",hrs*r)
    else:
-    return(hrs*r+((hrs-40)*r*0.5))
+    return(40*r+((hrs-40)*r*1.5))
     
 hrs = float(input())
 r= float(input())
