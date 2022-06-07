@@ -1,6 +1,6 @@
-# Lists
+#lists
 
-filename = "dataset/romeo.txt"
+
 file_name = input("Enter file name: ")
 file_handling = open(file_name)
 empty_list = list()
