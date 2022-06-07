@@ -1,6 +1,6 @@
 # Variables, Expressions & Statements
 
 
-hrs = float(input())
+h = float(input())
 r = float(input())
-print("Pay:",hrs*r)
+print("Pay:",h*r)
